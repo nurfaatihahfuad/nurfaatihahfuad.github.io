@@ -28,22 +28,7 @@ img {
   background-color: rgba(255, 255, 255, 1);
 }
 
-<style>
-    body {
-        margin: 0;
-        font-family: Arial, sans-serif;
-        text-align: center; /* Centers text horizontally */
-    }
 
-    .content {
-        margin: 50px auto; /* Centers the div horizontally */
-        max-width: 600px;
-        padding: 20px;
-        background-color: #ffffff;
-        border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
-</style>
 
 
 
